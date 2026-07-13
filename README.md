@@ -58,7 +58,7 @@ O projeto é dividido em dois repositórios:
 |---|---|---|
 | Administrador | `admin@clinica.com` | `123456` |
 | Recepção | `recepcao@clinica.com` | `123456` |
-| Dentista | `dentista@clinica.com` | `123456` |
+
 
 ---
 
