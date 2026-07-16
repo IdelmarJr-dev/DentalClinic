@@ -21,7 +21,7 @@
 
 O **DentalClinic** é um sistema full-stack de gestão para clínicas odontológicas, desenvolvido como parte da disciplina de **[Extensão Curricular I](https://suap.ifpi.edu.br/edu/disciplina/78813/)** do IFPI.
 
-O sistema cobre o fluxo completo de uma clínica: cadastro e busca de pacientes, agendamento de consultas, controle financeiro, prontuários clínicos, gestão de acesso de funcionários por papel (admin, recepção, dentista) e um dashboard com métricas de faturamento. Um diferencial do projeto é a automação de **lembretes de consulta via WhatsApp**, disparados por um scheduler que roda em segundo plano no backend.
+O sistema cobre o fluxo completo de uma clínica: cadastro e busca de pacientes, agendamento de consultas, controle financeiro, prontuários clínicos, gestão de acesso de funcionários por papel (admin, recepção) e um dashboard com métricas de faturamento. Um diferencial do projeto é a automação de **lembretes de consulta via WhatsApp**, disparados por um scheduler que roda em segundo plano no backend.
 
 O projeto é dividido em dois repositórios:
 
