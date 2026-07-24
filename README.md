@@ -4,7 +4,7 @@
 
 **Uma plataforma completa de gestão clínica: agenda, prontuários, financeiro, funcionários e lembretes automáticos via WhatsApp.**
 
-[![Demo ao vivo](https://img.shields.io/badge/demo-ao%20vivo-success?style=for-the-badge)](https://front-end-clinical.vercel.app)
+[![Demo ao vivo](https://img.shields.io/badge/demo-ao%20vivo-success?style=for-the-badge)](https://dentalclinicpro.vercel.app)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -50,7 +50,7 @@ O projeto é dividido em dois repositórios:
 
 </div>
 
-**🔗 Experimente você mesmo:** [front-end-clinical.vercel.app](https://front-end-clinical.vercel.app)
+**🔗 Experimente você mesmo:** [front-end-clinical.vercel.app](https://dentalclinicpro.vercel.app)
 
 **Contas de demonstração:**
 
@@ -128,7 +128,7 @@ O sistema segue uma arquitetura desacoplada **SPA + API REST**, com autenticaç�
 
 O código deste projeto é privado por motivos de **propriedade intelectual/segurança**, mas sinta-se à vontade para explorar a demonstração!
 
-**🔗 [front-end-clinical.vercel.app](https://front-end-clinical.vercel.app)**
+**🔗 [front-end-clinical.vercel.app](https://dentalclinicpro.vercel.app)**
 
 ---
 
