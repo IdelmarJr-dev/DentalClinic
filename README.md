@@ -11,7 +11,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-Postgres-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**🔗 [Acesse a demonstração ao vivo](https://front-end-clinical.vercel.app)**
+**🔗 [Acesse a demonstração ao vivo](https://dentalclinicpro.vercel.app)**
 
 </div>
 
@@ -50,7 +50,7 @@ O projeto é dividido em dois repositórios:
 
 </div>
 
-**🔗 Experimente você mesmo:** [front-end-clinical.vercel.app](https://dentalclinicpro.vercel.app)
+**🔗 Experimente você mesmo:** [dentalclinicpro.vercel.app](https://dentalclinicpro.vercel.app)
 
 **Contas de demonstração:**
 
@@ -128,7 +128,7 @@ O sistema segue uma arquitetura desacoplada **SPA + API REST**, com autenticaç�
 
 O código deste projeto é privado por motivos de **propriedade intelectual/segurança**, mas sinta-se à vontade para explorar a demonstração!
 
-**🔗 [front-end-clinical.vercel.app](https://dentalclinicpro.vercel.app)**
+**🔗 [dentalclinicpro.vercel.app](https://dentalclinicpro.vercel.app)**
 
 ---
 
